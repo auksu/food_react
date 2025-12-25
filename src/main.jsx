@@ -15,10 +15,10 @@ git init
 git add .
 git commit -m "initial commit"
 git branch -M main
-git remote add origin https://github.com/auksu/food_react.git
 git push -u origin main
 
 <gh-pages>
 npm run build
 npm run deploy
+
 */
